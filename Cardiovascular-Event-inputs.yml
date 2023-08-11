@@ -1,0 +1,345 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/cardiovascular-event-stroke---primary.py
+inputModule3:
+  class: File
+  path: python/cardiovascular-event-cereb---primary.py
+inputModule4:
+  class: File
+  path: python/cardiovascular-event-cva---primary.py
+inputModule5:
+  class: File
+  path: python/cardiovascular-event-aneury---primary.py
+inputModule6:
+  class: File
+  path: python/silastic-cardiovascular-event---primary.py
+inputModule7:
+  class: File
+  path: python/cardiovascular-event-procedure---primary.py
+inputModule8:
+  class: File
+  path: python/cardiovascular-event-ischaemia---primary.py
+inputModule9:
+  class: File
+  path: python/myocardal-cardiovascular-event---primary.py
+inputModule10:
+  class: File
+  path: python/cardiovascular-event-preinfarction---primary.py
+inputModule11:
+  class: File
+  path: python/bilateral-cardiovascular-event---primary.py
+inputModule12:
+  class: File
+  path: python/abnormal-cardiovascular-event---primary.py
+inputModule13:
+  class: File
+  path: python/cardiovascular-event---primary.py
+inputModule14:
+  class: File
+  path: python/cardiovascular-event-history---primary.py
+inputModule15:
+  class: File
+  path: python/cardiovascular-event-enzyme---primary.py
+inputModule16:
+  class: File
+  path: python/cardiovascular-event-first---primary.py
+inputModule17:
+  class: File
+  path: python/cardiovascular-event-cardiac---primary.py
+inputModule18:
+  class: File
+  path: python/cardiovascular-event-carot---primary.py
+inputModule19:
+  class: File
+  path: python/thoracoabdominal-cardiovascular-event---primary.py
+inputModule20:
+  class: File
+  path: python/cardiovascular-event-arteriogram---primary.py
+inputModule21:
+  class: File
+  path: python/cardiovascular-event-control---primary.py
+inputModule22:
+  class: File
+  path: python/cardiovascular-event-worsening---primary.py
+inputModule23:
+  class: File
+  path: python/cardiovascular-event-monitoring---primary.py
+inputModule24:
+  class: File
+  path: python/cardiovascular-event-evacuation---primary.py
+inputModule25:
+  class: File
+  path: python/cardiovascular-event-streptokinase---primary.py
+inputModule26:
+  class: File
+  path: python/cardiovascular-event-therapy---primary.py
+inputModule27:
+  class: File
+  path: python/cardiovascular-event-dacron---primary.py
+inputModule28:
+  class: File
+  path: python/axillary-cardiovascular-event---primary.py
+inputModule29:
+  class: File
+  path: python/cardiovascular-event-graft---primary.py
+inputModule30:
+  class: File
+  path: python/cardiovascular-event-bifurc---primary.py
+inputModule31:
+  class: File
+  path: python/femorofemoral-cardiovascular-event---primary.py
+inputModule32:
+  class: File
+  path: python/cardiovascular-event-aorto---primary.py
+inputModule33:
+  class: File
+  path: python/cardiovascular-event-aortouniiliac---primary.py
+inputModule34:
+  class: File
+  path: python/cardiovascular-event-segment---primary.py
+inputModule35:
+  class: File
+  path: python/cardiovascular-event-endova---primary.py
+inputModule36:
+  class: File
+  path: python/cardiovascular-event-brainstem---primary.py
+inputModule37:
+  class: File
+  path: python/cardiovascular-event-ulcer---primary.py
+inputModule38:
+  class: File
+  path: python/cardiovascular-event-precerebr---primary.py
+inputModule39:
+  class: File
+  path: python/cardiovascular-event-percut---primary.py
+inputModule40:
+  class: File
+  path: python/vertebral-cardiovascular-event---primary.py
+inputModule41:
+  class: File
+  path: python/cardiovascular-event-operation---primary.py
+inputModule42:
+  class: File
+  path: python/cardiovascular-event-compression---primary.py
+inputModule43:
+  class: File
+  path: python/cardiovascular-event-cross---primary.py
+inputModule44:
+  class: File
+  path: python/cardiovascular-event-socommon---primary.py
+inputModule45:
+  class: File
+  path: python/cardiovascular-event-insert---primary.py
+inputModule46:
+  class: File
+  path: python/cardiovascular-event-emergency---primary.py
+inputModule47:
+  class: File
+  path: python/popliteal-cardiovascular-event---primary.py
+inputModule48:
+  class: File
+  path: python/cardiovascular-event-prosthesis---primary.py
+inputModule49:
+  class: File
+  path: python/cardiovascular-event-anastom---primary.py
+inputModule50:
+  class: File
+  path: python/cardiovascular-event-reconstruction---primary.py
+inputModule51:
+  class: File
+  path: python/cardiovascular-event-patch---primary.py
+inputModule52:
+  class: File
+  path: python/cardiovascular-event-endarterectomy---primary.py
+inputModule53:
+  class: File
+  path: python/profundoplasty-cardiovascular-event---primary.py
+inputModule54:
+  class: File
+  path: python/cardiovascular-event-repair---primary.py
+inputModule55:
+  class: File
+  path: python/cardiovascular-event-thrombectomy---primary.py
+inputModule56:
+  class: File
+  path: python/cardiovascular-event-embolectomy---primary.py
+inputModule57:
+  class: File
+  path: python/cardiovascular-event-shunt---primary.py
+inputModule58:
+  class: File
+  path: python/cardiovascular-event-translum---primary.py
+inputModule59:
+  class: File
+  path: python/cardiovascular-event-embolisation---primary.py
+inputModule60:
+  class: File
+  path: python/cardiovascular-event-revision---primary.py
+inputModule61:
+  class: File
+  path: python/cardiovascular-event-involving---primary.py
+inputModule62:
+  class: File
+  path: python/internal-cardiovascular-event---primary.py
+inputModule63:
+  class: File
+  path: python/cardiovascular-event-thrombolysis---primary.py
+inputModule64:
+  class: File
+  path: python/clinic-cardiovascular-event---primary.py
+inputModule65:
+  class: File
+  path: python/cardiovascular-event-indicator---primary.py
+inputModule66:
+  class: File
+  path: python/cardiovascular-event-excepted---primary.py
+inputModule67:
+  class: File
+  path: python/cardiovascular-event-ruptur---primary.py
+inputModule68:
+  class: File
+  path: python/cardiovascular-event-circulatory---primary.py
+inputModule69:
+  class: File
+  path: python/cardiovascular-event-gangrene---primary.py
+inputModule70:
+  class: File
+  path: python/adult-cardiovascular-event---primary.py
+inputModule71:
+  class: File
+  path: python/cardiovascular-event-insulin---primary.py
+inputModule72:
+  class: File
+  path: python/angiopathy-cardiovascular-event---primary.py
+inputModule73:
+  class: File
+  path: python/cardiovascular-event-dementium---primary.py
+inputModule74:
+  class: File
+  path: python/cardiovascular-event-syndrome---primary.py
+inputModule75:
+  class: File
+  path: python/cardiovascular-event-heart---primary.py
+inputModule76:
+  class: File
+  path: python/cardiovascular-event-dressler's---primary.py
+inputModule77:
+  class: File
+  path: python/cardiovascular-event-angina---primary.py
+inputModule78:
+  class: File
+  path: python/unstable-cardiovascular-event---primary.py
+inputModule79:
+  class: File
+  path: python/cardiovascular-event-insufficiency---primary.py
+inputModule80:
+  class: File
+  path: python/cardiovascular-event-pectoris---primary.py
+inputModule81:
+  class: File
+  path: python/cardiovascular-event-decubitus---primary.py
+inputModule82:
+  class: File
+  path: python/coronary-cardiovascular-event---primary.py
+inputModule83:
+  class: File
+  path: python/cardiovascular-event-anginosus---primary.py
+inputModule84:
+  class: File
+  path: python/cardiovascular-event-steno---primary.py
+inputModule85:
+  class: File
+  path: python/chronic-cardiovascular-event---primary.py
+inputModule86:
+  class: File
+  path: python/subarachnoid-cardiovascular-event---primary.py
+inputModule87:
+  class: File
+  path: python/cardiovascular-event-haemorrhage---primary.py
+inputModule88:
+  class: File
+  path: python/cardiovascular-event-capsule---primary.py
+inputModule89:
+  class: File
+  path: python/cardiovascular-event-basal---primary.py
+inputModule90:
+  class: File
+  path: python/cardiovascular-event-hemisphere---primary.py
+inputModule91:
+  class: File
+  path: python/cardiovascular-event-unspecif---primary.py
+inputModule92:
+  class: File
+  path: python/right-cardiovascular-event---primary.py
+inputModule93:
+  class: File
+  path: python/nontraumatic-cardiovascular-event---primary.py
+inputModule94:
+  class: File
+  path: python/cardiovascular-event-stenosis---primary.py
+inputModule95:
+  class: File
+  path: python/intracranial-cardiovascular-event---primary.py
+inputModule96:
+  class: File
+  path: python/cardiovascular-event-occlus---primary.py
+inputModule97:
+  class: File
+  path: python/cardiovascular-event-wallenberg---primary.py
+inputModule98:
+  class: File
+  path: python/vertebrobasilar-cardiovascular-event---primary.py
+inputModule99:
+  class: File
+  path: python/cardiovascular-event-lacunar---primary.py
+inputModule100:
+  class: File
+  path: python/cardiovascular-event-sided---primary.py
+inputModule101:
+  class: File
+  path: python/cardiovascular-event-generalised---primary.py
+inputModule102:
+  class: File
+  path: python/cardiovascular-event-occlusn---primary.py
+inputModule103:
+  class: File
+  path: python/cardiovascular-event-atherosclerosis---primary.py
+inputModule104:
+  class: File
+  path: python/cardiovascular-event-atheroma---primary.py
+inputModule105:
+  class: File
+  path: python/endovascular-cardiovascular-event---primary.py
+inputModule106:
+  class: File
+  path: python/diabetic-cardiovascular-event---primary.py
+inputModule107:
+  class: File
+  path: python/cardiovascular-event-claudication---primary.py
+inputModule108:
+  class: File
+  path: python/cardiovascular-event-puerperium---primary.py
+inputModule109:
+  class: File
+  path: python/extradural-cardiovascular-event---primary.py
+inputModule110:
+  class: File
+  path: python/cardiovascular-event-injury---primary.py
+inputModule111:
+  class: File
+  path: python/cardiovascular-event-closed---primary.py
+inputModule112:
+  class: File
+  path: python/epidural-cardiovascular-event---primary.py
+inputModule113:
+  class: File
+  path: python/wound-cardiovascular-event---primary.py
+inputModule114:
+  class: File
+  path: python/output-cases.py
